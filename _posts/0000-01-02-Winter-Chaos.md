@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sharks & Pancakes = [wrong ladder](https://xkcd.com/2375/)
 Use the left arrow to go back!
